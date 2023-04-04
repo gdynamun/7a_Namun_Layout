@@ -1,59 +1,71 @@
 *{
- margin: 0;
- padding: 0;
+    margin: 0;
+    padding:0;
 }
 .container{
-width: 100%;
-height: 100vh;
-background-color: gray;
-display: flex;
-justify-content: center;
-align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: ;
+    display: flex;
 }
 .card{
-width: 90%; 
-height: 90%;
-background-color: dodgerblue;
+    width: 25%;
+    height:100%;
+    background-color: rgb(166, 255, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.top{
-width: 100%;
-height: 20%;
-background-color: aqua;
+.omo{
+    width:90%;
+    height:95%;
+    background-image: linear-gradient(to right,);
 }
-.middle{
-width: 100%;
-height: 60%;
-background-color: azure;
-display: flex;
+.card1{
+    width: 25%;
+    height:100%;
+    background-color: rgb(28, 121, 24);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
-.left{
-width:70% ;
-height: 100%;
-background-color: blueviolet;
-
+.lmao{
+    width: 90%;
+    height:20%;
+    background:linear-gradient(to right) rgb(7, 139, 27) yellow;
 }
-.a{
-    width:100% ;
-    height: 33% ;
-    background-color: chocolate;
+.card2{
+    width: 25%;
+    height:100%;
+    background-color: rgb(102, 149, 55);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
-.e{
-    width:100%;
-    height:33%;
-    background-color: cornflowerblue;
+.cnyeej{
+    width: 90%;
+    height:35%;
+    background: linear-gradient(to right, green, white,);
+.cnyeej1{
+    width:90% ;
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
-.i{
-    width:100%;
-    height:34%;
-    background-color: cyan;
+.ciz{
+    width:30% ;
+    height: 90%;
+    background: linear-gradient(to right, rgb(44, 44, 64), rgb(71, 255, 200));
+    
 }
-.right{
-width: 30%;
-height: 100%;
-background-color: black;
+.cnyeej2{
+    width:90%;
+    height: 22.5%;
+    background: linear-gradient(to right,rgb(100, 211, 198),rgb(3, 165, 113)
 }
-.bottom{
-width:100% ;
-height: 25%;
-background-color: antiquewhite;
+.huy{
+    
 }
