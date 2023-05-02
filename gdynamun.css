@@ -8,12 +8,22 @@
     background-color: rgb(105, 105, 105);
 }
 .left{
-    width: 500px;
-    height: 400px;
+    width: 100%;
+    height: 40%;
     background-color: rgb(247, 247, 247);
 }
 .right{
-    width: 500px;
-    height: 400px;
+    width: 50%;
+    height: 100%;
     background-color: rgb(34, 33, 33);
+}
+.deed{
+    width: 50%;
+    height:100%;
+    background-color: rgb(155, 155, 155);
+}
+.dood{
+    width:100%;
+    height:60%;
+    background-color: rgb(197, 197, 197);
 }
